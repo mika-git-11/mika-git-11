@@ -1,4 +1,4 @@
-<h1 align="center">oii,.. Mika</h1>
+<h1 align="center">oii,.. saya Mika</h1>
 <h3 align="center">Programmer Gembel</h3>
 
 - Kerjanya sekarang di **detikcom**
